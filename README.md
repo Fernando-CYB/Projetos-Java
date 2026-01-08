@@ -5,4 +5,4 @@ em Java com foco em back-end.
 
 ## 📂 Projetos
 - Mad Libs – prática de Strings e variáveis
-- Calculadora – lógica e operações básicas
+-Magic Number – lógica e operações básicas
