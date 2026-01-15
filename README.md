@@ -13,7 +13,7 @@ Repositório com projetos desenvolvidos durante meus estudos em Java, com foco e
 - **Calculator**  
   Calculadora aritmética utilizando conceitos de Programação Orientada a Objetos, métodos e tratamento de exceções.
 
-- **Build a Droid** *(em desenvolvimento)*  
+- **Build a Droid** 
   Projeto focado em classes, construtores e atributos, simulando a criação de um droid.
 
 ---
