@@ -15,6 +15,9 @@ Repositório com projetos desenvolvidos durante meus estudos em Java, com foco e
 
 - **Build a Droid** 
   Projeto focado em classes, construtores e atributos, simulando a criação de um droid.
+  
+- **Car loan Calculator**
+  lógica condicional e cálculo financeiro
 
 ---
 
