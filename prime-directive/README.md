@@ -22,6 +22,6 @@ Um número primo é um número inteiro maior que 1 que é divisível apenas por 
 - Programação Orientada a Objetos
 
 ## Como Executar
-- Compile o arquivo:
-- javac PrimeDirective.java
-- Execute o programa pelo terminal ou IDE
+1. Compile o arquivo:
+```bash
+javac PrimeDirective.java
